@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Colors
+Type=Application
+Icon=/home/alectramell/Icons/colors.svg
+Exec=bash /home/alectramell/scripts/colors.sh
+Terminal=false

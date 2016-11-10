@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=QCMA
+Type=Application
+Icon=/home/alectramell/Icons/psvita.svg
+Exec=qcma
+Terminal=false

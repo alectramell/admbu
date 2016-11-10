@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Gmail
+Type=Application
+Icon=/home/alectramell/Icons/gmail.svg
+Exec=sensible-browser --new-tab="https://www.gmail.com"
+Terminal=false

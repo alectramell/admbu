@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Tools
+Type=Application
+Icon=/home/alectramell/Icons/tools.svg
+Exec=gnome-open /home/alectramell/Tools
+Terminal=false

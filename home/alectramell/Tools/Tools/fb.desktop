@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Facebook
+Type=Application
+Icon=/home/alectramell/Icons/fb.svg
+Exec=sensible-browser --new-tab="https://www.facebook.com"
+Terminal=false

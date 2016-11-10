@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=PSN
+Type=Application
+Icon=/home/alectramell/Icons/psn.svg
+Exec=sensible-browser --new-tab="https://account.sonyentertainmentnetwork.com"
+Terminal=false

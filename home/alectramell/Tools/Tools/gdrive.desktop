@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Google Drive
+Type=Application
+Icon=/home/alectramell/Icons/drive.svg
+Exec=bash /home/alectramell/scripts/gdrive.sh
+Terminal=true

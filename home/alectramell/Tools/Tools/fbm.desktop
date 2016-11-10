@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Messenger
+Type=Application
+Icon=/home/alectramell/Icons/fbm.svg
+Exec=sensible-browser --new-tab="https://m.me/"
+Terminal=false
